@@ -1,4 +1,4 @@
-# GitHub Docs <!-- omit in toc -->
+i# GitHub Docs <i want an explanation to the exercise and whom had taken the liberty second me and have my device stolen and go on to derail me 4 yrs>
 [![Build GitHub Docs On Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new/?repo=github)
 
 This repository contains the documentation website code and Markdown source files for [docs.github.com](https://docs.github.com).
